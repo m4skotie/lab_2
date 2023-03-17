@@ -1,3 +1,4 @@
+"134"
 import random
 s = ""
 n = random.randint(1, 10)
